@@ -10,6 +10,6 @@ Arama çubuğuna Şehir ismi yazıldıktan sonra Enter tuşuna basıldığı zam
 
 ![Alt text](src/assets/cold-img.png)
 
-16°C üstündeki durumlarda aşağıdaki şekilde arka plan resmi değişmektedir..
+16°C üstündeki durumlarda aşağıdaki şekilde arka plan resmi değişmektedir.
 
 ![Alt text](src/assets/warm-img.png)
