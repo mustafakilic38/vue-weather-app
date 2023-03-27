@@ -4,6 +4,8 @@ API kullanımı için https://openweathermap.org linkinden faydalanılmıştır.
 
 ![Alt text](src/assets/openweather.png)
 
+Arama çubuğuna Şehir ismi yazıldıktan sonra Enter tuşuna basıldığı zaman arama yapmaktadır.
+
 16°C altında zaman aşağıdaki şekilde görünüm vardır.
 
 ![Alt text](src/assets/cold-img.png)
