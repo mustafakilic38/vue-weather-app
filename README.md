@@ -1,24 +1,13 @@
-# vue-weather-app
+# Vue.JS Hava Durumu Uygulaması
 
-## Project setup
-```
-npm install
-```
+API kullanımı için https://openweathermap.org linkinden faydalanılmıştır.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![Alt text](src/assets/openweather.png)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+16°C altında zaman aşağıdaki şekilde görünüm vardır.
 
-### Lints and fixes files
-```
-npm run lint
-```
+![Alt text](src/assets/cold-img.png)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+16°C üstündeki durumlarda aşağıdaki şekilde arka plan resmi değişmektedir.
+
+![Alt text](src/assets/warm-img.png)
